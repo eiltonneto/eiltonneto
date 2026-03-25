@@ -24,7 +24,7 @@ Estou no início da carreira como desenvolvedor full stack, com menos de 1 ano d
 
 Sou movido por curiosidade e pela vontade de entender como sistemas funcionam de ponta a ponta, não apenas usar ferramentas. Desde o começo da faculdade direcionei meus estudos para desenvolvimento com foco em lógica, regras de negócio e aplicação prática.
 
-Hoje desenvolvo o **YourFlow**, um sistema de agendamentos com controle financeiro integrado — meu principal laboratório de aprendizado.
+Hoje desenvolvo o **YourFlow**, um sistema de agendamentos com controle financeiro integrado - Um dos meus principais laboratórios de aprendizado.
 
 ---
 
