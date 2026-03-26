@@ -20,11 +20,11 @@
 
 ## Sobre mim
 
-Desenvolvedor full stack movido por curiosidade e pela vontade de entender como sistemas funcionam de ponta a ponta — não apenas usar ferramentas, mas compreender as decisões por trás delas.
+Desenvolvedor full stack movido por curiosidade e pela vontade de entender como sistemas funcionam de ponta a ponta e não apenas usar ferramentas, mas também compreender as decisões por trás delas.
 
 Desde o início da faculdade direcionei meus estudos para desenvolvimento com foco em lógica, regras de negócio e aplicação prática. Construo projetos próprios como forma de aprender com problemas reais.
 
-Atualmente desenvolvo o **ClubFlow**, um SaaS para pequenos negócios — onde cada decisão técnica precisa fazer sentido para o produto e para o usuário.
+Atualmente desenvolvo o **ClubFlow**, um SaaS para pequenos negócios, onde cada decisão técnica precisa fazer sentido para o produto e para o usuário.
 
 ---
 
@@ -47,7 +47,7 @@ Atualmente desenvolvo o **ClubFlow**, um SaaS para pequenos negócios — onde c
 ## Produtos
 
 ### ClubFlow
-> SaaS completo para gestão de pequenos negócios — em desenvolvimento ativo.
+> SaaS completo para gestão de pequenos negócios - em desenvolvimento ativo.
 
 **O problema:** Pequenos negócios operam com ferramentas fragmentadas — agenda num lugar, financeiro em outro, clientes em outro. Não existe uma solução integrada e acessível.
 
@@ -61,7 +61,7 @@ Atualmente desenvolvo o **ClubFlow**, um SaaS para pequenos negócios — onde c
 ---
 
 ### YourFlow
-> MVP de agendamentos com controle financeiro integrado — origem e laboratório do ClubFlow.
+> MVP de agendamentos com controle financeiro integrado - origem e laboratório do ClubFlow.
 
 **O problema:** Prestadores de serviço autônomos não têm uma ferramenta simples que una agenda e financeiro em um único lugar.
 
@@ -81,17 +81,17 @@ Projetos construídos com foco em demonstrar domínio de stacks e conceitos espe
 
 | Projeto | Objetivo técnico | Stack | Status |
 |---------|-----------------|-------|--------|
-| API REST com Spring Boot | Demonstrar ecossistema Java — camadas, segurança, persistência | Java · Spring Boot · PostgreSQL | Em desenvolvimento |
-| Sistema de clínica | Aplicar estruturas de dados em um domínio real — filas, mapas, ordenação | Java · Estruturas de dados | Em desenvolvimento |
+| API REST de Produtos com Spring Boot | Demonstrar ecossistema Java — camadas, segurança, persistência | Java · Spring Boot · PostgreSQL | concluído |
+| Sistema de clínica | Aplicar estruturas de dados em um domínio real - filas, pilhas, listas | Java · Estruturas de dados | concluído em terminal |
 | Portfólio pessoal | Domínio de HTML semântico, CSS moderno e JS puro sem framework | HTML · CSS · JS | Em construção |
 
 ---
 
 ## O que estou aprendendo agora
 
-- Ecossistema Java + Spring Boot — segurança, persistência, arquitetura em camadas
-- Visão de produto e negócio — pensar o *porquê* antes do *como*
-- Modelagem de sistemas SaaS — multi-tenancy, escalabilidade, regras de negócio complexas
+- Ecossistema Java + Spring Boot -> segurança, persistência, arquitetura em camadas
+- Visão de produto e negócio -> pensar o *porquê* antes do *como*
+- Modelagem de sistemas SaaS -> multi-tenancy, escalabilidade, regras de negócio complexas
 - Estruturas de dados aplicadas a problemas reais (Map, Set, complexidade algorítmica)
 - Arquitetura de APIs REST organizadas para crescer com o produto
 
@@ -108,7 +108,7 @@ Projetos construídos com foco em demonstrar domínio de stacks e conceitos espe
 
 ## Objetivo
 
-Me tornar um desenvolvedor full stack completo — alguém que entende o sistema de ponta a ponta, do banco de dados à interface, e que consegue conectar decisões técnicas com impacto real no produto e no negócio.
+Me tornar um desenvolvedor full stack completo, alguém que entende o sistema de ponta a ponta, do banco de dados à interface, e que consegue conectar decisões técnicas com impacto real no produto e no negócio.
 
 Não busco só escrever código que funciona. Busco entender *por que* aquela decisão existe, *o que* ela resolve e *como* ela escala.
 
