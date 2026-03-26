@@ -1,9 +1,7 @@
 <h1 align="center">Eilton Neto</h1>
-
 <p align="center">
   Desenvolvedor Full Stack · ADS 5º semestre · Fortaleza, CE
 </p>
-
 <p align="center">
   <a href="/cdn-cgi/l/email-protection#d3b6babfa7bcbebdbdb6a7bce4e793b4beb2babffdb0bcbe">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
