@@ -1,7 +1,7 @@
 <h1 align="center">Eilton Neto</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack em formação · ADS · Fortaleza, CE
+  Desenvolvedor Full Stack · ADS · Fortaleza, CE
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 
 ## Sobre mim
 
-Estou no início da carreira como desenvolvedor full stack, com menos de 1 ano de estudo dedicado — e já construindo projetos reais.
+Desenvolvedor full stack movido por curiosidade e pela vontade de entender como sistemas funcionam de ponta a ponta — não apenas usar ferramentas, mas compreender as decisões por trás delas.
 
-Sou movido por curiosidade e pela vontade de entender como sistemas funcionam de ponta a ponta, não apenas usar ferramentas. Desde o começo da faculdade direcionei meus estudos para desenvolvimento com foco em lógica, regras de negócio e aplicação prática.
+Desde o início da faculdade direcionei meus estudos para desenvolvimento com foco em lógica, regras de negócio e aplicação prática. Construo projetos próprios como forma de aprender com problemas reais.
 
-Hoje desenvolvo o **YourFlow**, um sistema de agendamentos com controle financeiro integrado - Um dos meus principais laboratórios de aprendizado.
+Atualmente desenvolvo o **ClubFlow**, um SaaS para pequenos negócios — onde cada decisão técnica precisa fazer sentido para o produto e para o usuário.
 
 ---
 
@@ -37,47 +37,63 @@ Hoje desenvolvo o **YourFlow**, um sistema de agendamentos com controle financei
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk"/>
   <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
 </p>
 
 ---
 
-## Projeto em destaque — YourFlow
+## Produtos
 
-> Sistema de agendamentos com controle financeiro integrado. Projeto próprio, construído do zero para aprender sistemas reais.
+### ClubFlow
+> SaaS completo para gestão de pequenos negócios — em desenvolvimento ativo.
 
-**O problema:** Prestadores de serviço autônomos não têm uma ferramenta simples que una agenda + financeiro em um único lugar.
+**O problema:** Pequenos negócios operam com ferramentas fragmentadas — agenda num lugar, financeiro em outro, clientes em outro. Não existe uma solução integrada e acessível.
 
-**A solução técnica:**
-- Frontend em React com foco em UX fluida
-- Backend em Node.js com API REST
-- Banco de dados PostgreSQL
-- Autenticação com JWT
-- Organização de eventos com `Map` para busca em O(1)
+**A solução:**
+- Plataforma única que centraliza agendamentos, controle financeiro e gestão de clientes
+- Arquitetura pensada para multi-tenancy desde o início
+- Stack: React · Node.js · PostgreSQL · JWT
+
+**Status:** Em desenvolvimento — construindo a base do produto.
+
+---
+
+### YourFlow
+> MVP de agendamentos com controle financeiro integrado — origem e laboratório do ClubFlow.
+
+**O problema:** Prestadores de serviço autônomos não têm uma ferramenta simples que una agenda e financeiro em um único lugar.
+
+**O que foi construído:**
 - Fluxo completo: agendamento → confirmação → presença → pagamento
+- Organização de eventos com `Map` para busca em O(1)
+- API REST com Node.js e banco PostgreSQL
+- Autenticação com JWT
 
-**Onde estou agora:** Desenvolvendo a v4, com foco em regras de negócio mais robustas e estruturação do código.
+**Papel no projeto:** O YourFlow foi o MVP que validou o problema real — o ClubFlow é a evolução para um produto escalável.
+
+---
+
+## Projetos técnicos
+
+Projetos construídos com foco em demonstrar domínio de stacks e conceitos específicos.
+
+| Projeto | Objetivo técnico | Stack | Status |
+|---------|-----------------|-------|--------|
+| API REST com Spring Boot | Demonstrar ecossistema Java — camadas, segurança, persistência | Java · Spring Boot · PostgreSQL | Em desenvolvimento |
+| Sistema de clínica | Aplicar estruturas de dados em um domínio real — filas, mapas, ordenação | Java · Estruturas de dados | Em desenvolvimento |
+| Portfólio pessoal | Domínio de HTML semântico, CSS moderno e JS puro sem framework | HTML · CSS · JS | Em construção |
 
 ---
 
 ## O que estou aprendendo agora
 
-- HTML semântico, CSS moderno (Flexbox, Grid, variáveis)
-- Estruturas de dados aplicadas (Map, Set, complexidade algorítmica)
-- Boas práticas de API REST
-- Organização e arquitetura de código
-- Como pensar sistemas antes de escrever código
-
----
-
-## Outros projetos
-
-| Projeto | Tecnologias | Status |
-|---------|-------------|--------|
-| Portfólio pessoal | HTML, CSS, JS | Em construção |
-| Sistema de atendimento | Java | Concluído |
-| Exercícios de lógica e estrutura de dados | JavaScript | Contínuo |
+- Ecossistema Java + Spring Boot — segurança, persistência, arquitetura em camadas
+- Visão de produto e negócio — pensar o *porquê* antes do *como*
+- Modelagem de sistemas SaaS — multi-tenancy, escalabilidade, regras de negócio complexas
+- Estruturas de dados aplicadas a problemas reais (Map, Set, complexidade algorítmica)
+- Arquitetura de APIs REST organizadas para crescer com o produto
 
 ---
 
@@ -92,7 +108,9 @@ Hoje desenvolvo o **YourFlow**, um sistema de agendamentos com controle financei
 
 ## Objetivo
 
-Evoluir como desenvolvedor full stack entendendo sistemas de verdade — da lógica ao produto. Busco minha primeira oportunidade profissional enquanto construo projetos reais e aprimoro minha base técnica.
+Me tornar um desenvolvedor full stack completo — alguém que entende o sistema de ponta a ponta, do banco de dados à interface, e que consegue conectar decisões técnicas com impacto real no produto e no negócio.
+
+Não busco só escrever código que funciona. Busco entender *por que* aquela decisão existe, *o que* ela resolve e *como* ela escala.
 
 ---
 
