@@ -113,4 +113,5 @@ Não busco só escrever código que funciona. Busco entender *por que* aquela de
 ---
 
 <p align="center">
-  Construindo, aprendend
+  Construindo, aprendendo e evoluindo — um commit de cada vez.
+</p>
